@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 })
 export class TwoWayBindingComponent {
     person = {
-        name: 'Gene',
+        name: 'Fred',
         age: 55
     };
 }
